@@ -5,9 +5,11 @@ The camera/smartphone is turned into a ruler and coin classifier. The aim is to 
 Coin Classifier:
 <br>
 <img src = "ResultData/CoinsResult.png" >
-Ruler
+Ruler:
 <br>
 <img src = "ResultData/Ruler.png" >
 Pictures used for Camera Calibration:
 <br>
-<img src = "PatternImages/AllPatterns.png" >
+<p align="center">
+  <img src="PatternImages/AllPatterns.png">
+</p>
