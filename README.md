@@ -10,4 +10,4 @@ Ruler
 <img src = "ResultData/Ruler.png" >
 Pictures used for Camera Calibration:
 <br>
-<img src = "ResultData/AllPatterns.png" >
+<img src = "PatternImages/AllPatterns.png" >
